@@ -28,11 +28,11 @@
     ],
     "assets": {
         "web.assets_backend": [
-            "smart_list_auto_width/static/src/js/auto_width_list_renderer.js",
+            "web_smart_auto_width/static/src/js/auto_width_list_renderer.js",
         ],
     },
     "images": [
-        "static/description/banner.png",
+        "static/description/icon.png",
     ],
     "installable": True,
     "application": False,
