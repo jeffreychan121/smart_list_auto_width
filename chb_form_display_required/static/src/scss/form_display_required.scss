@@ -1,0 +1,27 @@
+.o_form_view {
+    .o_group {
+        .o_wrap_label {
+            display: inline-flex;
+        }
+    }
+
+    .d-inline-block{
+        .o_form_label{
+            margin-right: 13px;
+        }
+    }
+
+}
+.display-required {
+    color: #DC3545;
+    padding-right: 0.2em;
+    vertical-align: middle;
+}
+.display-required-space {
+    padding-right: 0.63em;
+}
+.d-inline-block {
+    .display-required-space {
+        padding-right: 0;
+    }
+}
