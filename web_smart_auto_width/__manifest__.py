@@ -19,7 +19,7 @@
     "category": "User Interface",
     "author": "Chen Han Bin",
     "website": "",
-    "support": "jeffreyfirstten@gmail.com",
+    "support": "jeffreyfirstten@163.com",
     "currency": "EUR",
     "price": "0.0",
     "license": "LGPL-3",
