@@ -1,0 +1,26 @@
+# Microsoft Office temporary file
+~$*
+~*.tmp
+
+# VSCode stuff..
+.vscode/
+
+# Mac OS X stuff...
+.DS_Store
+
+# idea project files
+.idea
+
+# python igonre files
+
+*.py[cod]
+*$py.class
+
+# tmp files
+*.tmp
+
+# drawio backup files
+*.bkp
+
+# 过滤掉配置文件
+*.conf
