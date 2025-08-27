@@ -28,7 +28,7 @@
     ],
     "assets": {
         "web.assets_backend": [
-            "web_smart_auto_width/static/src/js/auto_width_list_renderer.js",
+            "chb_list_auto_width/static/src/js/auto_width_list_renderer.js",
         ],
     },
     "images": [
