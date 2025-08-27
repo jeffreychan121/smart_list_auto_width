@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+    <t t-inherit="web.FormLabel" t-inherit-mode="extension">
+        <xpath expr="//label" position="before">
+            <span t-if="isRequired" class="display-required">*</span>
+            <span t-else=""  class="display-required-space"/>
+        </xpath>
+    </t>
+</templates>
