@@ -37,7 +37,6 @@ Once installed, required fields in forms will automatically display a red star. 
     },
     "images": [
         "static/description/icon.png",
-        "static/description/screenshot.png",
     ],
     "installable": True,
     "application": False,
